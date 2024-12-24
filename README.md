@@ -1,9 +1,8 @@
+
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Mohsin Rasul</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/e5/e52b75b6935ff6f3b89c17b273a7f94f.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohsin-rasul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -54,10 +53,6 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsin-rasul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-rasul&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
@@ -65,4 +60,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-rasul&theme=default" alt="GitHub Streak Stats" />
 </p>
-
