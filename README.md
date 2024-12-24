@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **mohsinrasul80@gmail.com**
 
-- ⚡ Fun fact: **🎓 I'm a Cybersecurity undergraduate passionate about exploring the digital world securely.**
+- ⚡ Fun fact: **Encryption is just math.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
