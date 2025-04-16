@@ -2,7 +2,7 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Mohsin Rasul</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohsin-rasul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Transcript Management System**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ or Java**
 
 - 📫 How to reach me: **mohsinrasul80@gmail.com**
 
