@@ -2,15 +2,15 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Mohsin Rasul</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate cyber security enthusiast from Pakistan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohsin-rasul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **Transcript Management System**
+- 🔭 I’m currently working on **NetGuard-IPS**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C++ or Java**
 
