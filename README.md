@@ -1,62 +1,64 @@
-
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="MasterHead" />
 
 <h1 align="center">Hi 👋, I'm Mohsin Rasul</h1>
-<h3 align="center">A passionate cyber security enthusiast from Pakistan</h3>
+<h3 align="center">Cybersecurity Enthusiast</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohsin-rasul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **NetGuard-IPS**
+<br>
 
-- 🌱 I’m currently learning **Python**
+### 🛡️ Overview
+I am a cybersecurity and technology enthusiast with a strong focus on network security, system administration, and software development. I actively participate in Capture The Flag (CTF) challenges to hone my skills in packet analysis and web vulnerabilities, and I enjoy designing secure, isolated Linux environments to bridge the gap between theory and practice.
 
-- 💬 Ask me about **C++ or Java**
+- 🔭 **Currently Working On:** Building secure local server infrastructures
+- 🌱 **Currently Learning:** Python, Network Forensics, and advanced Linux administration
+- ⚙️ **Core Interests:** C++, Java, Web Security, and Traffic Analysis via Wireshark
+- ⚡ **Fun Fact:** Encryption is just math.
+- 📫 **Contact:** mohsinrasul80@gmail.com
 
-- 📫 How to reach me: **mohsinrasul80@gmail.com**
-
-- ⚡ Fun fact: **Encryption is just math.**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohsin-rasul/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/infrno_flame" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@infernofIame" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  <a href="https://github.com/mohsin-rasul" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://discord.gg/flamekai" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
 
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
+
+**Languages:**
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-rasul&show_icons=true&locale=en" alt="GitHub Stats" />
+**Systems & Tools:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-rasul&theme=default" alt="GitHub Streak Stats" />
+<br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsin-rasul&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-rasul&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
