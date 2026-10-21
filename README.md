@@ -10,13 +10,26 @@
 <br>
 
 ### 🛡️ Overview
-I am a cybersecurity and technology enthusiast with a strong focus on network security, system administration, and software development. I actively participate in Capture The Flag (CTF) challenges to hone my skills in packet analysis and web vulnerabilities, and I enjoy designing secure, isolated Linux environments to bridge the gap between theory and practice.
+I'm a cybersecurity student focused on network security, cloud infrastructure and system hardening. I build labs, break them, and write up what went wrong. I'm also co-founder of **[Cyconic](https://cyconic.com)**, a student-run security research group where I publish the full write-ups of my projects.
 
-- 🔭 **Currently Working On:** Building secure local server infrastructures
-- 🌱 **Currently Learning:** Python, Network Forensics, and advanced Linux administration
-- ⚙️ **Core Interests:** C++, Java, Web Security, and Traffic Analysis via Wireshark
+- 🔭 **Currently Working On:** Cyconic, a portfolio of security research write-ups
+- 🌱 **Currently Learning:** OpenStack, software-defined networking, and intrusion detection
+- ⚙️ **Core Interests:** Network segmentation, IDS/IPS, vulnerability management, and Linux hardening
 - ⚡ **Fun Fact:** Encryption is just math.
 - 📫 **Contact:** mohsinrasul80@gmail.com
+
+<br>
+
+### 📌 Featured Projects
+
+| Project | What it is |
+|---------|------------|
+| [OpenStack Private Cloud](https://github.com/Mohsin-Rasul/openstack-private-cloud-infrastructure) | DevStack and Kolla-Ansible clouds with a default-deny tenant, Heat provisioning, and Octavia load balancing · [write-up](https://cyconic.com/projects/openstack-private-cloud/) |
+| [SDN Campus Network](https://github.com/Mohsin-Rasul/SDN-Campus-Network) | Three-tier campus network in Mininet, segmented with VLANs and enforced by a Ryu OpenFlow controller · [write-up](https://cyconic.com/projects/sdn-campus-network/) |
+| [NetGuard-IPS](https://github.com/Mohsin-Rasul/NetGuard-IPS) | Python host IPS for Windows that detects SYN floods, port scans and ARP spoofing and blocks them through Windows Firewall |
+| [Snort NIDS Lab](https://github.com/Mohsin-Rasul/snort-nids-lab) | Snort 3 with custom rules for ping floods and SSH scans, with alerts sent to Splunk |
+| [OpenVAS Docker Stack](https://github.com/Mohsin-Rasul/openvas-docker-stack) | Containerised Greenbone/OpenVAS vulnerability scanning lab |
+| [Email Server](https://github.com/Mohsin-Rasul/email-server) | Hardened Postfix/Dovecot server on Ubuntu, with Ansible automation for client setup |
 
 <br>
 
@@ -51,6 +64,10 @@ I am a cybersecurity and technology enthusiast with a strong focus on network se
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" alt="OpenStack" width="40" height="40" />
 </p>
 
 <br>
