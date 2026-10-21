@@ -10,7 +10,7 @@
 <br>
 
 ### 🛡️ Overview
-I'm a cybersecurity student focused on network security, cloud infrastructure and system hardening. I build labs, break them, and write up what went wrong. I'm also the founder of **[Cyconic](https://cyconic.com)**, a student-run security research group where I publish the full write-ups of my projects.
+I'm a cybersecurity student focused on network security, cloud infrastructure and system hardening. I build labs, break them, and write up what went wrong. I'm also building **[Cyconic](https://cyconic.com)**, a student-run security research group where I publish the full write-ups of my projects.
 
 - 🔭 **Currently Working On:** Cyconic, a portfolio of security research write-ups
 - 🌱 **Currently Learning:** OpenStack, software-defined networking, and intrusion detection
